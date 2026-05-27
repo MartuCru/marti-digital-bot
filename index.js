@@ -133,6 +133,19 @@ app.post('/webhook', async (req, res) => {
     });
     
     const data = await response.json();
+    
+    // Log para debugging
+    console.log('Claude response status:', response.status);
+    console.log('Claude response data:', JSON.stringify(data).substring(0, 200));
+    
+    if (!data.content || !data.content[0]) {
+      console.error('Unexpected response:', JSON.stringify(data));
+      twiml.message('No pude procesar tu mensaje. Intentá de nuevo.');
+      res.type('text/xml');
+      res.send(twiml.toString());
+      return;
+    }
+    
     const reply = data.content[0].text;
     
     // Guardar respuesta en historial
