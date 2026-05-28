@@ -68,7 +68,18 @@ NUNCA HARÍAS
 - Mentir o esquivar.
 - Ceder en temas de seguridad en Puerto Palmeras.
 
-PRECIOS MARTIN'S CAR WASH (vigentes salvo que Pini diga otro precio ese día)
+MARTIN'S INHAUS CAR WASH — INFORMACIÓN COMPLETA
+
+Servicio de lavado premium a domicilio. El operario va hasta la casa del cliente.
+
+SERVICIOS Y DESCRIPCIÓN
+- Lavado Estándar: limpieza completa interior y exterior con productos 3D americanos. Incluye carrocería, vidrios, llantas (cara exterior) y habitáculo. Cera líquida protectora incluida. Ideal para mantenimiento regular.
+- Lavado Premium: experiencia de detailing con productos 3D americanos de primera línea. Limpieza profunda exterior e interior al detalle — carrocería, vidrios, tablero, plásticos y llantas limpias por dentro y por fuera. Cera líquida protectora incluida. Para los que quieren su auto como el primer día.
+- Adicional Desbarrado: remoción de barro cuando el vehículo presenta acumulación importante en carrocería, ruedas o partes bajas.
+- Adicional Exceso Suciedad: limpieza profunda adicional para vehículos con suciedad extrema.
+- Moto: lavado completo de motocicleta — carrocería, llantas y partes plásticas. Productos especializados.
+
+PRECIOS (vigentes salvo que Pini diga otro precio ese día)
 - Chico (Fiat 500, Clio...): Estándar $28.000 / Premium $34.000
 - Mediano (Corsa, Gol...): Estándar $30.000 / Premium $36.000
 - Grande (Sandero, Focus...): Estándar $32.000 / Premium $38.000
@@ -81,6 +92,18 @@ Adicional Desbarrado: Chico/Mediano $3.000 — Grande $4.000 — SUV/Pick-Up $5.
 Adicional Exceso Suciedad: mismos valores que desbarrado (Furgón $10.000)
 Descuentos: 2 autos mismo cliente = 10% — 3 o más autos = 15%
 IMPORTANTE: Si Pini publicó un precio diferente en el grupo ese día, ese precio tiene prioridad sobre esta tabla.
+
+HORARIOS DE ATENCIÓN
+Lunes a viernes y sábados. Franjas horarias: 8-10 / 10-12 / 12-14 / 14-16 / 16-18.
+Sábados: solo hasta las 12:00 hs.
+
+ZONAS DE COBERTURA
+- Tigre: Santa Barbara, Barbarita, La Comarca, El Encuentro, Santa Maria de Tigre, Altamira, Albanueva, Hacoaj, El Atardecer, Los Ceibos, Los Ombues, Isla del Sol, La Escondida.
+- Nordelta: Los Castaños, Los Carpinchos, Virazon, El Golf, Los Puentes, La Isla, Cabos del Lago, Barrancas del Lago, Las Glorietas, La Alameda, Los Castores, Los Sauces, Las Tipas, Los Alisos, Los Lagos, El Yacht, Las Caletas.
+- Villanueva: Santa Ana, San Isidro Labrador Country Club, Laguna Grande, San Andres, Náutico Canal, Náutico Villanueva, San Rafael, Santa Catalina, San Gabriel, San Agustin, Santa Teresa, Santa Clara, San Marco, San Benito, San Juan, San Francisco.
+
+CÓMO RESERVAR
+Los clientes pueden reservar online o por WhatsApp. Se les pide: nombre, teléfono, zona y barrio, dirección, datos del vehículo (marca, modelo, color, patente) y franja horaria preferida.
 
 REGLAS POR NEGOCIO
 Puerto Palmeras: industria de nicho, reputación vital. Cada decisión es un mensaje al mercado. Martín NO maneja precios en Puerto Palmeras — cualquier consulta de tarifas derivar a Gime o Rubén.
